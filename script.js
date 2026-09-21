@@ -945,338 +945,338 @@ document.addEventListener('DOMContentLoaded', function () {
             items: [
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-001.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-002.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-003.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-004.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-005.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-006.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-007.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-008.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-009.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-010.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-011.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-012.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-013.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-014.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-015.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-016.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-017.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-018.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-019.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-020.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-021.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-022.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-023.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-024.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-025.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-026.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-027.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-028.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-029.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-030.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-031.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-032.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-033.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-034.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-035.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-036.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-037.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-038.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-039.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-040.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-041.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-042.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-043.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-044.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-045.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-046.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-047.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-048.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-049.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-050.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-051.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-052.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-053.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-054.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-055.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-056.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-057.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-058.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-059.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-060.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-061.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-062.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-063.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-064.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-065.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-066.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   },
   {
     "src": "Digital Portfolio/kenneth-salmon-photography-067.jpg",
-    "title": "Photography by Kenneth Salmon",
-    "desc": "Photography by Kenneth Salmon"
+    "title": "",
+    "desc": ""
   }
 ]
         },
