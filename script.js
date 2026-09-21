@@ -10,38 +10,12 @@ document.addEventListener('DOMContentLoaded', function () {
     const loaderPercent = document.getElementById('loaderPercent');
     const loaderProgress = document.getElementById('loaderProgress');
 
-    // Randomly decide number of milestones (1, 2, or 3)
-    const numMilestones = Math.floor(Math.random() * 3) + 1;
-
-    // Generate random milestone positions based on count
-    function generateMilestones(count) {
-        const milestones = [];
-        if (count === 1) {
-            milestones.push(Math.floor(Math.random() * 30) + 60); // 60-89%
-        } else if (count === 2) {
-            milestones.push(Math.floor(Math.random() * 20) + 50); // 50-69%
-            milestones.push(Math.floor(Math.random() * 10) + 85); // 85-94%
-        } else {
-            milestones.push(Math.floor(Math.random() * 25) + 55); // 55-79%
-            milestones.push(Math.floor(Math.random() * 12) + 80); // 80-91%
-            milestones.push(Math.floor(Math.random() * 5) + 94);  // 94-98%
-        }
-        return milestones;
-    }
-
-    const milestones = generateMilestones(numMilestones);
-
-    // Build loading steps dynamically
-    const loadingSteps = [];
-    let lastTarget = 0;
-
-    milestones.forEach((milestone, i) => {
-        const duration = 1400 - (i * 400); // Faster for later milestones
-        loadingSteps.push({ target: milestone, duration: Math.max(duration, 400), easing: 'ease-out' });
-        loadingSteps.push({ target: milestone, duration: 700, easing: 'linear' }); // Pause
-    });
-
-    loadingSteps.push({ target: 100, duration: 300, easing: 'ease-in' });
+    // Simplified, much faster loading animation without pauses
+    const loadingSteps = [
+        { target: 40, duration: 250, easing: 'ease-out' },
+        { target: 80, duration: 200, easing: 'linear' },
+        { target: 100, duration: 150, easing: 'ease-in' }
+    ];
 
     // Easing functions
     const easings = {
