@@ -944,338 +944,338 @@ document.addEventListener('DOMContentLoaded', function () {
             label: "Photography",
             items: [
   {
-    "src": "Digital Portfolio/11.jpg",
-    "title": "Portfolio Study #11",
+    "src": "Digital Portfolio/kenneth-salmon-photography-001.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/12.jpg",
-    "title": "Portfolio Study #12",
+    "src": "Digital Portfolio/kenneth-salmon-photography-002.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/21.jpg",
-    "title": "Portfolio Study #21",
+    "src": "Digital Portfolio/kenneth-salmon-photography-003.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/26.jpg",
-    "title": "Portfolio Study #26",
+    "src": "Digital Portfolio/kenneth-salmon-photography-004.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/27.jpg",
-    "title": "Portfolio Study #27",
+    "src": "Digital Portfolio/kenneth-salmon-photography-005.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/28.jpg",
-    "title": "Portfolio Study #28",
+    "src": "Digital Portfolio/kenneth-salmon-photography-006.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/34.jpg",
-    "title": "Portfolio Study #34",
+    "src": "Digital Portfolio/kenneth-salmon-photography-007.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/38.jpg",
-    "title": "Portfolio Study #38",
+    "src": "Digital Portfolio/kenneth-salmon-photography-008.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/39.jpg",
-    "title": "Portfolio Study #39",
+    "src": "Digital Portfolio/kenneth-salmon-photography-009.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/41.jpg",
-    "title": "Portfolio Study #41",
+    "src": "Digital Portfolio/kenneth-salmon-photography-010.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/42.jpg",
-    "title": "Portfolio Study #42",
+    "src": "Digital Portfolio/kenneth-salmon-photography-011.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/44.jpg",
-    "title": "Portfolio Study #44",
+    "src": "Digital Portfolio/kenneth-salmon-photography-012.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Cars/_MG_3364.jpg",
-    "title": "Capture #3364",
+    "src": "Digital Portfolio/kenneth-salmon-photography-013.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Cars/_MG_3370.jpg",
-    "title": "Capture #3370",
+    "src": "Digital Portfolio/kenneth-salmon-photography-014.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Cars/_MG_3374.jpg",
-    "title": "Capture #3374",
+    "src": "Digital Portfolio/kenneth-salmon-photography-015.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Cars/_MG_3383.jpg",
-    "title": "Capture #3383",
+    "src": "Digital Portfolio/kenneth-salmon-photography-016.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Cars/_MG_4059.jpg",
-    "title": "Capture #4059",
+    "src": "Digital Portfolio/kenneth-salmon-photography-017.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Cars/_MG_4076.jpg",
-    "title": "Capture #4076",
+    "src": "Digital Portfolio/kenneth-salmon-photography-018.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Cars/_MG_4084.jpg",
-    "title": "Capture #4084",
+    "src": "Digital Portfolio/kenneth-salmon-photography-019.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Cars/_MG_4109.jpg",
-    "title": "Capture #4109",
+    "src": "Digital Portfolio/kenneth-salmon-photography-020.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Cars/_MG_4113.jpg",
-    "title": "Capture #4113",
+    "src": "Digital Portfolio/kenneth-salmon-photography-021.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Cars/_MG_5592.jpg",
-    "title": "Capture #5592",
+    "src": "Digital Portfolio/kenneth-salmon-photography-022.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Cars/_MG_7640.jpg",
-    "title": "Capture #7640",
+    "src": "Digital Portfolio/kenneth-salmon-photography-023.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Cars/_MG_7646.jpg",
-    "title": "Capture #7646",
+    "src": "Digital Portfolio/kenneth-salmon-photography-024.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Cars/_MG_7648.jpg",
-    "title": "Capture #7648",
+    "src": "Digital Portfolio/kenneth-salmon-photography-025.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Cars/_MG_7649.jpg",
-    "title": "Capture #7649",
+    "src": "Digital Portfolio/kenneth-salmon-photography-026.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/DJI_0011.JPG",
-    "title": "Aerial View #0011",
+    "src": "Digital Portfolio/kenneth-salmon-photography-027.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/DJI_0017.JPG",
-    "title": "Aerial View #0017",
+    "src": "Digital Portfolio/kenneth-salmon-photography-028.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/DJI_0090.jpg",
-    "title": "Aerial View #0090",
+    "src": "Digital Portfolio/kenneth-salmon-photography-029.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/DJI_0123.jpg",
-    "title": "Aerial View #0123",
+    "src": "Digital Portfolio/kenneth-salmon-photography-030.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/DJI_0129.jpg",
-    "title": "Aerial View #0129",
+    "src": "Digital Portfolio/kenneth-salmon-photography-031.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/DJI_0132.jpg",
-    "title": "Aerial View #0132",
+    "src": "Digital Portfolio/kenneth-salmon-photography-032.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/Ignite live (5).jpg",
-    "title": "Ignite Live Production",
+    "src": "Digital Portfolio/kenneth-salmon-photography-033.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_0809.jpg",
-    "title": "Capture #0809",
+    "src": "Digital Portfolio/kenneth-salmon-photography-034.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_2714.jpg",
-    "title": "Capture #2714",
+    "src": "Digital Portfolio/kenneth-salmon-photography-035.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_2720.jpg",
-    "title": "Capture #2720",
+    "src": "Digital Portfolio/kenneth-salmon-photography-036.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_2946.jpg",
-    "title": "Capture #2946",
+    "src": "Digital Portfolio/kenneth-salmon-photography-037.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_2949.jpg",
-    "title": "Capture #2949",
+    "src": "Digital Portfolio/kenneth-salmon-photography-038.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_5572.jpg",
-    "title": "Capture #5572",
+    "src": "Digital Portfolio/kenneth-salmon-photography-039.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_5574.jpg",
-    "title": "Capture #5574",
+    "src": "Digital Portfolio/kenneth-salmon-photography-040.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_5575.jpg",
-    "title": "Capture #5575",
+    "src": "Digital Portfolio/kenneth-salmon-photography-041.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_5576.jpg",
-    "title": "Capture #5576",
+    "src": "Digital Portfolio/kenneth-salmon-photography-042.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_5588.jpg",
-    "title": "Capture #5588",
+    "src": "Digital Portfolio/kenneth-salmon-photography-043.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_5597.jpg",
-    "title": "Capture #5597",
+    "src": "Digital Portfolio/kenneth-salmon-photography-044.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_5598.jpg",
-    "title": "Capture #5598",
+    "src": "Digital Portfolio/kenneth-salmon-photography-045.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_5602.jpg",
-    "title": "Capture #5602",
+    "src": "Digital Portfolio/kenneth-salmon-photography-046.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_5627.jpg",
-    "title": "Capture #5627",
+    "src": "Digital Portfolio/kenneth-salmon-photography-047.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_5682.jpg",
-    "title": "Capture #5682",
+    "src": "Digital Portfolio/kenneth-salmon-photography-048.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_5902.jpg",
-    "title": "Capture #5902",
+    "src": "Digital Portfolio/kenneth-salmon-photography-049.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_5909.jpg",
-    "title": "Capture #5909",
+    "src": "Digital Portfolio/kenneth-salmon-photography-050.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_6032.jpg",
-    "title": "Capture #6032",
+    "src": "Digital Portfolio/kenneth-salmon-photography-051.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_6093.jpg",
-    "title": "Capture #6093",
+    "src": "Digital Portfolio/kenneth-salmon-photography-052.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_6114.jpg",
-    "title": "Capture #6114",
+    "src": "Digital Portfolio/kenneth-salmon-photography-053.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_6115.jpg",
-    "title": "Capture #6115",
+    "src": "Digital Portfolio/kenneth-salmon-photography-054.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_6154.jpg",
-    "title": "Capture #6154",
+    "src": "Digital Portfolio/kenneth-salmon-photography-055.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_6224.jpg",
-    "title": "Capture #6224",
+    "src": "Digital Portfolio/kenneth-salmon-photography-056.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_7277.jpg",
-    "title": "Capture #7277",
+    "src": "Digital Portfolio/kenneth-salmon-photography-057.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_7286.jpg",
-    "title": "Capture #7286",
+    "src": "Digital Portfolio/kenneth-salmon-photography-058.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_7291.jpg",
-    "title": "Capture #7291",
+    "src": "Digital Portfolio/kenneth-salmon-photography-059.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_7303.jpg",
-    "title": "Capture #7303",
+    "src": "Digital Portfolio/kenneth-salmon-photography-060.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_9170.JPG",
-    "title": "Capture #9170",
+    "src": "Digital Portfolio/kenneth-salmon-photography-061.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_9175.JPG",
-    "title": "Capture #9175",
+    "src": "Digital Portfolio/kenneth-salmon-photography-062.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_9227.jpg",
-    "title": "Capture #9227",
+    "src": "Digital Portfolio/kenneth-salmon-photography-063.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_9360.jpg",
-    "title": "Capture #9360",
+    "src": "Digital Portfolio/kenneth-salmon-photography-064.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_9456-2.jpg",
-    "title": "Capture #9456",
+    "src": "Digital Portfolio/kenneth-salmon-photography-065.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_9461-2.jpg",
-    "title": "Capture #9461",
+    "src": "Digital Portfolio/kenneth-salmon-photography-066.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   },
   {
-    "src": "Digital Portfolio/_MG_9463-2.jpg",
-    "title": "Capture #9463",
+    "src": "Digital Portfolio/kenneth-salmon-photography-067.jpg",
+    "title": "Photography by Kenneth Salmon",
     "desc": "Photography by Kenneth Salmon"
   }
 ]
