@@ -1,0 +1,9 @@
+/* Print: clean output (About page especially) */
+@page{margin:16mm}
+*{background:#fff!important;color:#000!important;box-shadow:none!important;text-shadow:none!important}
+.nav,.skip,.cta,.trusted,.foot p.copy~*,.vmodal,.lightbox,.reel,.video-row,.vgrid,.filters,.subnav,.btn,.case-cta,form,.about-head picture,.todo{display:none!important}
+body{font:11pt/1.45 Georgia,serif}h1{font-size:22pt}h2{font-size:14pt;margin-top:10pt}
+main>section{padding:0 0 8pt!important}.page-head{padding-top:0!important}
+.about-head,.about-grid{display:block!important}.chips{display:block}.chips li{display:inline;border:0;padding:0}.chips li::after{content:" · "}
+a[href^="http"]::after,a[href^="mailto"]::after{content:" (" attr(href) ")";font-size:9pt}
+[data-reveal]{opacity:1!important;transform:none!important}
