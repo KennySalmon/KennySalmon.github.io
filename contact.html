@@ -3,15 +3,100 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; img-src 'self' data:; font-src 'self'; style-src 'self' 'unsafe-hashes' 'sha256-xkDv4kpyZrsWRPCUudCADKGprDrDkJPSc9PMEYrdVQU='; script-src 'self' 'sha256-Ero8G3qV1Q92MemxG7NBqcR17mcrBamEiYch3Fn8EkU=' https://static.cloudflareinsights.com; connect-src 'self' https://formspree.io https://cloudflareinsights.com; frame-src 'self' https://www.youtube-nocookie.com https://player.vimeo.com; form-action 'self' https://formspree.io; upgrade-insecure-requests">
 <title>Contact · Kenneth Salmon · Book Video, Live Production &amp; Photography</title>
 <meta name="description" content="Book Kenneth Salmon for video editing, live broadcast direction or photography in Orlando and Central Florida.">
 <link rel="canonical" href="https://kennysalmon.github.io/contact.html">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Kenneth Salmon"><meta property="og:title" content="Contact · Kenneth Salmon · Book Video, Live Production &amp; Photography"><meta property="og:description" content="Book Kenneth Salmon for video editing, live broadcast direction or photography in Orlando and Central Florida."><meta property="og:url" content="https://kennysalmon.github.io/contact.html"><meta property="og:image" content="https://kennysalmon.github.io/img/og.jpg">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Contact · Kenneth Salmon · Book Video, Live Production &amp; Photography"><meta name="twitter:description" content="Book Kenneth Salmon for video editing, live broadcast direction or photography in Orlando and Central Florida."><meta name="twitter:image" content="https://kennysalmon.github.io/img/og.jpg">
 <meta name="theme-color" content="#1360ad">
+<meta name="cf-web-analytics-token" content="CLOUDFLARE_WEB_ANALYTICS_TOKEN_PLACEHOLDER">
 <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
-<link rel="preload" href="fonts/inter-var.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="fonts/fraunces-var.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="css/fonts.css"><link rel="stylesheet" href="css/site.css?v=20261016c"><link rel="stylesheet" href="css/print.css" media="print">
+<link rel="preload" href="fonts/fraunces-300-500-core.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+/* Small first-screen layer. The complete stylesheet loads in parallel without blocking paint. */
+@font-face{font-family:Fraunces;font-style:normal;font-weight:300 500;font-display:swap;src:url(../fonts/fraunces-300-500-core.woff2) format('woff2');unicode-range:U+20-7E,U+A0,U+A9,U+AE,U+B0,U+B7,U+D7,U+F7,U+2018-2019,U+201C-201D,U+2022,U+2026,U+2122}
+@font-face{font-family:Fraunces;font-style:normal;font-weight:300 500;font-display:swap;src:url(../fonts/fraunces-300-500-extra.woff2) format('woff2');unicode-range:U+A1-A8,U+AA-AD,U+AF,U+B1-B6,U+B8-D6,U+D8-F6,U+F8-FF,U+131,U+152-153,U+2BC,U+2C6,U+2DA,U+2DC,U+300-301,U+303-304,U+308,U+2013-2014,U+201A,U+201E,U+2032-2033,U+2039-203A,U+2044,U+20AC,U+2212,U+2215}
+@font-face{font-family:Fraunces;font-style:italic;font-weight:300;font-display:swap;src:url(../fonts/fraunces-italic-optimized-core.woff2) format('woff2');unicode-range:U+20-7E,U+A0,U+A9,U+AE,U+B0,U+B7,U+D7,U+F7,U+2018-2019,U+201C-201D,U+2022,U+2026,U+2122}
+@font-face{font-family:Fraunces;font-style:italic;font-weight:300;font-display:swap;src:url(../fonts/fraunces-italic-optimized-extra.woff2) format('woff2');unicode-range:U+A1-A8,U+AA-AD,U+AF,U+B1-B6,U+B8-D6,U+D8-F6,U+F8-FF,U+131,U+152-153,U+2BC,U+2C6,U+2DA,U+2DC,U+300-301,U+303-304,U+308,U+323,U+2013-2014,U+201A,U+201E,U+2032-2033,U+2039-203A,U+2044,U+20AC,U+2212,U+2215}
+@font-face{font-family:Inter;font-style:normal;font-weight:400 600;font-display:swap;src:url(../fonts/inter-400-600-core.woff2) format('woff2');unicode-range:U+20-7E,U+A0,U+A9,U+AE,U+B0,U+B7,U+D7,U+F7,U+2018-2019,U+201C-201D,U+2022,U+2026,U+2122}
+@font-face{font-family:Inter;font-style:normal;font-weight:400 600;font-display:swap;src:url(../fonts/inter-400-600-extra.woff2) format('woff2');unicode-range:U+0,U+A1-A8,U+AA-AC,U+AF,U+B1-B6,U+B8-D6,U+D8-F6,U+F8-FF,U+131,U+152-153,U+2BB-2BC,U+2C6,U+2DA,U+2DC,U+300-301,U+303-304,U+308-309,U+323,U+2002,U+2009,U+200B,U+2013-2014,U+201A,U+201E,U+2032-2033,U+2039-203A,U+2044,U+20AC,U+2191,U+2193,U+2212,U+FEFF}
+:root{--bg:#f4f8fc;--bg2:#e8f0f9;--fg:#102b47;--mut:#405e7a;--acc:#1360ad;--warm:#f1ba57;--line:#163f6828;--r:10px;--pad:clamp(1.2rem,4vw,4rem)}
+*{box-sizing:border-box;margin:0}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--fg);font:400 clamp(16px,.35vw + 15px,18px)/1.65 Inter,system-ui,sans-serif}
+p{text-wrap:pretty}
+a{color:inherit}
+img{display:block;max-width:100%;height:auto}
+picture{display:contents}
+:focus-visible{outline:2px solid var(--acc);outline-offset:3px;border-radius:4px}
+.skip{position:absolute;left:-999px;top:0}.skip:focus{left:1rem;top:1rem;z-index:99;background:var(--fg);color:var(--bg);padding:.6rem 1rem}
+h1,h2,h3{font-family:Fraunces,Georgia,serif;font-weight:300;letter-spacing:-.02em;line-height:1.05;text-wrap:balance}
+h1{font-size:clamp(2.6rem,7vw,6.2rem)}h2{font-size:clamp(2rem,4.5vw,3.8rem)}h3{font-size:1.5rem}
+em{font-style:italic;color:var(--acc)}
+.kicker,.eyebrow{text-transform:uppercase;letter-spacing:.18em;font-size:.75rem;color:var(--acc);font-family:Inter,sans-serif;font-weight:500}
+.nav,.nav.scrolled{position:fixed;inset:0 0 auto;z-index:20;display:flex;justify-content:space-between;align-items:center;padding:1rem var(--pad);background:rgba(247,251,255,.96);backdrop-filter:blur(12px);border-bottom:1px solid var(--line);color:var(--fg)}
+.nav nav{display:flex;gap:1.6rem;align-items:center}
+.nav nav a{text-decoration:none;font-size:.92rem;color:#405e7a}
+.nav nav a:hover,.nav nav a[aria-current]{color:#102b47}
+.logo{font-weight:600;letter-spacing:.03em;text-decoration:none;color:var(--fg)}
+.pill{border:1px solid #1360ad;border-radius:99px;padding:.35rem 1rem;color:#1360ad!important}
+.nav-toggle{display:none;background:none;border:0;color:var(--fg);font-size:1.5rem;cursor:pointer}
+.ctas{display:flex;gap:1.5rem;align-items:center;flex-wrap:wrap}
+.btn{display:inline-block;background:var(--warm);color:#102b47;padding:.9rem 1.6rem;border-radius:5px;text-decoration:none;font-weight:600;border:0;font-size:1rem;cursor:pointer;box-shadow:0 2px 0 #8e6324}
+main>section{padding:clamp(4rem,10vw,8rem) var(--pad)}
+.hero{position:relative;height:100svh;min-height:min(600px,100svh);max-height:980px;overflow:hidden;display:flex;align-items:flex-end;padding-bottom:clamp(3rem,8vh,6rem)!important;background:#07182c}
+.reel img,.reel video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:brightness(.55)}
+.reel img{opacity:0;transition:opacity 1.6s ease,transform 7s linear;transform:scale(1.06)}
+.reel img.on{opacity:1;transform:scale(1)}
+.reel:not(.is-rotating) picture:first-child img{opacity:1;transform:none}
+.reel picture:first-child img{transform:none}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,#07182c55 0%,#07182c0a 22%,#07182cbd 62%,#07182c 100%);pointer-events:none}
+.hero-inner{position:relative;z-index:2;max-width:1100px;color:#fff}
+.hero h1{margin:.8rem 0 2rem}
+.hero em{color:#fff}
+.hero .kicker{color:#e3effb;max-width:34ch;line-height:1.7}
+.hero .hero-sub{max-width:52ch;color:#eef5fc;font-size:clamp(1rem,1.2vw,1.15rem);margin:-1rem 0 2rem}
+.hero-link{color:#fff;text-decoration:none;border-bottom:1px solid #ffffff88;padding-bottom:.2rem}
+.page-head{padding-top:clamp(8rem,16vw,11rem)!important;color:#102b47}
+.page-head>p:not(.kicker),.lead{color:#294864;max-width:62ch;margin-top:1.4rem;font-size:1.1rem}
+.page-head h1{margin-top:.6rem}
+.page-head .eyebrow{color:#1360ad}
+.page-head.services-head{padding-bottom:clamp(3rem,5vw,5rem)!important}
+.about-head{display:grid;grid-template-columns:1.3fr 1fr;gap:5vw;align-items:start}
+.about-head p{margin-top:1.2rem;max-width:65ch;line-height:1.72;color:#294864}
+.about-head img{border-radius:var(--r);width:100%;aspect-ratio:4/5;object-fit:cover;max-height:80vh}
+.contact-head{display:grid;grid-template-columns:1fr 1fr;gap:5vw;align-items:start}
+.contact-meta{display:grid;grid-template-columns:7rem 1fr;gap:.8rem 1rem;margin-top:2.5rem}
+.contact-meta dt{color:#1360ad;font-size:.8rem;text-transform:uppercase;letter-spacing:.12em;padding-top:.2rem}
+.contact-meta dd{margin:0}
+.form{display:grid;gap:1rem;background:#e8f0f9;border:1px solid var(--line);border-radius:var(--r);padding:clamp(1.2rem,3vw,2.2rem)}
+.form label{display:grid;gap:.35rem;font-size:.85rem;color:#405e7a}
+.form input,.form select,.form textarea{width:100%;min-width:0;font:inherit;color:#102b47;background:#fff;border:1px solid #9bb1c8;border-radius:6px;padding:.75rem .9rem}
+.form .btn{justify-self:start}
+.subnav{display:flex;gap:.6rem;flex-wrap:wrap;margin-top:2rem}
+.subnav a{border:1px solid var(--line);border-radius:99px;padding:.45rem 1rem;text-decoration:none;font-size:.9rem}
+.subnav span{color:var(--acc);margin-left:.2rem}
+.sec-head{display:grid;grid-template-columns:4rem 1fr;align-items:baseline;margin-bottom:2.5rem}
+.sec-head span,.num{color:var(--acc);font-size:.8rem}
+.cases{display:grid;gap:clamp(3rem,7vw,6rem)}
+.case{display:grid;grid-template-columns:1.2fr 1fr;gap:clamp(1.5rem,4vw,4rem);align-items:center}
+.case h3{font-size:clamp(1.8rem,3vw,2.6rem);margin:.5rem 0 1.4rem}
+.case dl{display:grid;grid-template-columns:6rem 1fr;gap:.6rem 1rem}
+.case dt{color:#1360ad;font-size:.8rem;text-transform:uppercase;letter-spacing:.12em;padding-top:.2rem}
+.case dd{margin:0;color:#294864}
+.video-card figcaption{padding:.7rem 0;display:flex;flex-direction:column;gap:.1rem}
+.lite{position:relative;display:block;width:100%;aspect-ratio:16/9;border:0;padding:0;background:#000;border-radius:var(--r);overflow:hidden;cursor:pointer}
+.lite img{width:100%;height:100%;object-fit:cover;opacity:.7}
+.lite .play{position:absolute;left:50%;top:50%;translate:-50% -50%;width:4rem;height:4rem;border-radius:50%;background:var(--fg);color:var(--bg);display:grid;place-items:center;font-size:1.2rem}
+.link{text-decoration:none;border-bottom:1px solid var(--mut)}
+.nf .ctas{margin-top:2rem}
+@media(max-width:900px){.nav-toggle{display:block}.nav nav{position:fixed;inset:0 0 auto;top:3.6rem;flex-direction:column;align-items:flex-start;gap:1.2rem;background:var(--bg);padding:1.5rem var(--pad) 2rem;border-bottom:1px solid var(--line);display:none}.nav.open nav{display:flex}.nav.open{background:var(--bg)}.nav nav a{font-size:1.15rem}.about-head,.contact-head,.case{grid-template-columns:1fr}.contact-meta{grid-template-columns:1fr;gap:.2rem}.contact-meta dd{margin-bottom:.8rem}.sec-head{grid-template-columns:2.5rem 1fr}.case:nth-of-type(even) .case-media{order:0}}
+@media(max-width:600px){.hero h1{font-size:clamp(2.5rem,12vw,4rem)}}
+@media(max-width:400px){h1{font-size:2.35rem}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+</style><link rel="stylesheet" href="css/site.css?v=20261023" media="print" data-late-style><noscript><link rel="stylesheet" href="css/site.css?v=20261023"></noscript><link rel="stylesheet" href="css/print.css" media="print">
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Person", "@id": "https://kennysalmon.github.io/#person", "name": "Kenneth Salmon", "alternateName": "Kenny Salmon", "jobTitle": "Video Editor, Live Broadcast Technical Director & Photographer", "email": "mailto:carlossalmon77@gmail.com", "url": "https://kennysalmon.github.io/", "image": "https://kennysalmon.github.io/img/og.jpg", "sameAs": ["https://youtube.com/@KennyCSalmon", "https://instagram.com/_ken_capture_s", "https://linkedin.com/in/kencsalmon"], "alumniOf": "Southern Adventist University", "address": {"@type": "PostalAddress", "addressLocality": "Orlando", "addressRegion": "FL", "addressCountry": "US"}}, {"@type": "ProfessionalService", "@id": "https://kennysalmon.github.io/#business", "name": "Kenneth Salmon", "url": "https://kennysalmon.github.io/", "image": "https://kennysalmon.github.io/img/og.jpg", "email": "carlossalmon77@gmail.com", "founder": {"@id": "https://kennysalmon.github.io/#person"}, "areaServed": ["Orlando, FL", "Central Florida"], "address": {"@type": "PostalAddress", "addressLocality": "Orlando", "addressRegion": "FL", "addressCountry": "US"}, "knowsAbout": ["Live broadcast technical direction", "Photography", "Video editing", "Live audio mixing", "Podcast audio mixing"]}]}</script>
 </head>
 <body>
@@ -27,21 +112,22 @@
 <p class="lead">Tell me what you have in mind, when it happens and where it will live.</p>
 <dl class="contact-meta"><dt>Email</dt><dd><a href="mailto:carlossalmon77@gmail.com">carlossalmon77@gmail.com</a></dd><dt>Based in</dt><dd>Orlando, FL, serving Orlando &amp; Central Florida</dd><dt>Social</dt><dd><ul class="inline"><li><a href="https://youtube.com/@KennyCSalmon" rel="noopener" target="_blank">YouTube</a></li><li><a href="https://instagram.com/_ken_capture_s" rel="noopener" target="_blank">Instagram</a></li><li><a href="https://linkedin.com/in/kencsalmon" rel="noopener" target="_blank">LinkedIn</a></li></ul></dd></dl></div>
 <form class="form" action="https://formspree.io/f/xqpkkojj" method="POST" data-ajax>
-<label>Name<input name="name" autocomplete="name" required></label>
-<label>Email<input type="email" name="email" autocomplete="email" required></label>
+<label>Name<input name="name" autocomplete="name" maxlength="120" required></label>
+<label>Email<input type="email" name="email" autocomplete="email" maxlength="254" required></label>
 <label>What do you need?<select name="service" required><option value="" selected disabled>Select a service</option><option>Photoshoot</option><option>Video shoot</option><option>Editing</option><option>Something else</option></select></label>
-<label>Date or deadline<input name="date" placeholder="e.g. Nov 14 or flexible"></label>
-<label>Project details<textarea name="message" rows="5" required></textarea></label>
+<label>Date or deadline<input name="date" maxlength="120" placeholder="e.g. Nov 14 or flexible"></label>
+<label>Project details<textarea name="message" rows="5" maxlength="5000" required></textarea></label>
 <input type="hidden" name="_subject" value="New project inquiry from website">
-<button class="btn" type="submit">Send message</button><p class="form-note">Form delivery is not connected yet. Please email <a href="mailto:carlossalmon77@gmail.com">carlossalmon77@gmail.com</a> to reach me.</p><p class="form-status" role="status" aria-live="polite"></p></form>
+<div class="form-honeypot" aria-hidden="true"><label>Leave this field blank<input type="text" name="_gotcha" tabindex="-1" autocomplete="off"></label></div>
+<button class="btn" type="submit">Send message</button><p class="form-note">Your inquiry is handled as described in the <a href="privacy.html">privacy policy</a>. Form delivery has not been verified. Please email <a href="mailto:carlossalmon77@gmail.com">carlossalmon77@gmail.com</a> if you need a reply.</p><p class="form-status" role="status" aria-live="polite"></p></form>
 </section>
 </main>
 <dialog class="vmodal" aria-labelledby="vm-title"><div class="vm-bar"><h2 id="vm-title">Video</h2><button type="button" class="vm-close" aria-label="Close video">✕</button></div><div class="vm-frame"></div></dialog>
 <footer class="foot">
 <div><a href="index.html" class="logo">Kenneth Salmon</a><p>Live broadcast · Photography · Video · Audio<br>Orlando &amp; Central Florida</p></div>
 <div><a href="mailto:carlossalmon77@gmail.com">carlossalmon77@gmail.com</a><p><a href="https://youtube.com/@KennyCSalmon" rel="noopener" target="_blank">YouTube</a> · <a href="https://instagram.com/_ken_capture_s" rel="noopener" target="_blank">Instagram</a> · <a href="https://linkedin.com/in/kencsalmon" rel="noopener" target="_blank">LinkedIn</a></p></div>
-<p class="copy">© 2026 Kenneth Salmon.</p>
+<p class="copy">© 2026 Kenneth Salmon.</p><p class="footer-legal"><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a><a href="accessibility.html">Accessibility</a></p>
 </footer>
-<script src="js/site.js?v=20261016c" defer></script>
+<script src="js/site.js?v=20261023" defer></script>
 </body>
 </html>

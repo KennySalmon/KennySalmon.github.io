@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /TODO.md
 Sitemap: https://kennysalmon.github.io/sitemap.xml
